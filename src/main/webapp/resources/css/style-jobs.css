@@ -1,0 +1,10 @@
+.custom {
+	margin: 0;
+	padding: 0;
+}
+
+.expanded-card {
+	max-height: 100%;
+	overflow-y: auto;
+}
+

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.ABCJobsPortal.config"},{"l":"com.ABCJobsPortal.controller"},{"l":"com.ABCJobsPortal.model"},{"l":"com.ABCJobsPortal.repository"},{"l":"com.ABCJobsPortal.service"},{"l":"helper"}];updateSearchResults();

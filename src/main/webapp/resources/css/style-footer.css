@@ -1,0 +1,32 @@
+.custom-text {
+	font-family: 'Roboto Slab', serif;
+}
+.footer {
+	text-align: center;
+	background-color: #f8f9fa;
+	padding-top: 15px;
+	padding-bottom: 0;
+}
+
+.footer-links {
+	display: flex;
+	justify-content: center;
+	gap: 30px;
+	margin-top: 20px;
+}
+
+.footer-links a {
+	text-decoration: none;
+	color: #212529;
+}
+
+.footer-text {
+	text-align: center;
+	margin-top: 30px;
+}
+
+.footer-copyright {
+	background-color: rgba(0, 0, 0, 0.2);
+	padding: 10px 0;
+	text-align: center;
+}

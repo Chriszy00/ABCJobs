@@ -1,0 +1,6 @@
+com.ABCJobsPortal.config
+com.ABCJobsPortal.controller
+com.ABCJobsPortal.model
+com.ABCJobsPortal.repository
+com.ABCJobsPortal.service
+helper
